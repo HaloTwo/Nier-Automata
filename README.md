@@ -6,7 +6,6 @@
 • 기간: 2023.05 ~ 2023.06  
 • 환경: Unity3D, C#  
 • 인원: 5인 (프로그래머 5인)  
-• Repository: https://github.com/HaloTwo/Nier-Automata  
 
 ### 🔧 Core Implementation
 - Enemy AI 상태 로직 및 행동 패턴 구현
